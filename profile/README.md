@@ -1,7 +1,5 @@
 ## Hi there 👋
-This organization belongs to the [machayka](https://github.com/machayka) account and was created specifically for one of the projects to integrate it with Jira.
-
-Check out my new project: <a href="https://kelnerhood.com">kelnerhood.com</a>
+This organization is my old personal GitHub account, converted into an organization. My current account is [machayka](https://github.com/machayka) - that's where all my active work lives.
 <!--
 
 **Here are some ideas to get you started:**
